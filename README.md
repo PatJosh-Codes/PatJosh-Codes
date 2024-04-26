@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PatJosh-Codes
-- 👀 I’m interested in ... Contributing to open source projects
+- 👀 I’m interested in ... Contributing to open-source projects
 - 🌱 I’m currently learning ... Software engineering at ALX AFRICA
 - 💞️ I’m looking to collaborate on ... problem-solving projects
 - 📫 How to reach me ... nuhvete22@gmail.com
